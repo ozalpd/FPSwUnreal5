@@ -1,0 +1,59 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled executables
+*.exe
+*.out
+
+# Generated files
+*.gen
+*.log
+*.tmp
+
+# Build directories
+/build/
+/bin/
+
+# Mac OS system files
+.DS_Store
+
+# Unreal Engine defaults
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+
+.vs
+.vscode
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
